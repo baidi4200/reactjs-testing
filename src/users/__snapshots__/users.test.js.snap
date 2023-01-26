@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders when all user are registered 1`] = `
+<h1>
+  Items not found
+</h1>
+`;
+
+exports[`Renders when there are no users registered 1`] = `
+<h1>
+  Items not found
+</h1>
+`;
+
+exports[`Renders when there is one specific user registered 1`] = `
+<h1>
+  Items not found
+</h1>
+`;
